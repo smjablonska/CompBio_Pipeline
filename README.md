@@ -45,5 +45,7 @@ git clone https://github.com/smjablonska/CompBio_Pipeline.git
 
 ##Sample input data 
 Command used: head -n 40000 data.fastq > sampledata.fastq
+
+
 File attached in sampledata.fastq file
 
