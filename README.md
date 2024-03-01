@@ -12,6 +12,7 @@ Donor 3 (2dpi): https://www.ncbi.nlm.nih.gov/sra/SRX2896374
 Donor 3 (6dpi): https://www.ncbi.nlm.nih.gov/sra/SRX2896375
 
 ##Packages used 
+
 Os
 
 Glob 
@@ -24,6 +25,8 @@ From biopython:
 Entrez 
 
 SeqIO 
+
+**Spades, Bowtie and NCBI are all tools used in the code - Spades and Bowtie are software tools that need to be installed but NCBI needs an email and username.** 
 
 ##Copy directory 
 
