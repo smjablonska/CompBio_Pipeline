@@ -37,6 +37,7 @@ Entrez
 SeqIO 
 
 **Spades, Bowtie and NCBI are all tools used in the code - Spades and Bowtie are software tools that need to be installed but NCBI needs an email and username.** 
+**IN transcripts function I did run RNAspades - so input the path to that**
 
 ##Copy respository 
 If you would like to clone this repository the command is
