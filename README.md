@@ -12,7 +12,11 @@ Donor 3 (2dpi): https://www.ncbi.nlm.nih.gov/sra/SRX2896374
 Donor 3 (6dpi): https://www.ncbi.nlm.nih.gov/sra/SRX2896375
 
 Example for one of the samples: 
+
+
 wget https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR5660030/SRR5660030
+
+
 fastq-dump -I --split-files SRR5660030
 
 
