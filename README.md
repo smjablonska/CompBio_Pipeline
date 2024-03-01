@@ -13,11 +13,16 @@ Donor 3 (6dpi): https://www.ncbi.nlm.nih.gov/sra/SRX2896375
 
 ##Packages used 
 Os
+
 Glob 
+
 Subprocess 
 
+
 From biopython: 
+
 Entrez 
+
 SeqIO 
 
 ##Copy directory 
